@@ -3,6 +3,9 @@ public class sample2 {
     {
         System.out.println("Hello java8");
 
-        System.out.println("changes made by pradnya in sample 2 ");    }
+                System.out.println("Changs  made by aish");
 
+
+
+    }
 }
